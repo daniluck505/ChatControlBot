@@ -8,4 +8,4 @@ config.py, Model.py, bot.py - файлы для работы бота
 - Скачать все файлы с git
 - Установить токен бота в config.py
 - Скачать dataset с https://www.kaggle.com/datasets/alexandersemiletov/toxic-russian-comments
-- Запустить бота и пронать модель (функция /make_model) для сохранения весов в файл 
+- Запустить бота и прогнать модель (функция /make_model) для сохранения весов в файл 
